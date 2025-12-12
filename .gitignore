@@ -1,0 +1,6 @@
+dataset/
+attendance_images/
+encodings.pkl
+attendance.xlsx
+venv/
+__pycache__/
